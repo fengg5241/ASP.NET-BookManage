@@ -1,0 +1,99 @@
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\ApplicationInsights.config
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\ChapterB2B.dll.config
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\ChapterB2B.dll
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\ChapterB2B.pdb
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.Web.dll
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.Web.xml
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.ApplicationInsights.xml
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\obj\Debug\ChapterB2B.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\obj\Debug\ChapterB2B.dll
+C:\Users\PC\Desktop\School\Enterprise\ChapterB2B\ChapterB2B\obj\Debug\ChapterB2B.pdb
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\ApplicationInsights.config
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\csc.exe
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\vbc.exe
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\VBCSCompiler.exe
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\ChapterB2B.dll.config
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\ChapterB2B.dll
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\ChapterB2B.pdb
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.Web.dll
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.ApplicationInsights.dll
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.Web.xml
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.ApplicationInsights.xml
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\obj\Debug\ChapterB2B.csprojResolveAssemblyReference.cache
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\obj\Debug\ChapterB2B.dll
+C:\Users\162995S\Downloads\Enterprise\Enterprise\ChapterB2B\ChapterB2B\obj\Debug\ChapterB2B.pdb
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\ApplicationInsights.config
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\csc.exe
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\vbc.exe
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\VBCSCompiler.exe
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\ChapterB2B.dll.config
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\ChapterB2B.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\ChapterB2B.pdb
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.Web.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.ApplicationInsights.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.Web.xml
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.ApplicationInsights.xml
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\obj\Debug\ChapterB2B.csprojResolveAssemblyReference.cache
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\obj\Debug\ChapterB2B.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\obj\Debug\ChapterB2B.pdb

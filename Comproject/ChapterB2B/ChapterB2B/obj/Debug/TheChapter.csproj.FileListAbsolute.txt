@@ -1,0 +1,67 @@
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\ApplicationInsights.config
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\csc.exe
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\vbc.exe
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\VBCSCompiler.exe
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\ChapterB2B.dll.config
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\ChapterB2B.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\ChapterB2B.pdb
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.Web.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.ApplicationInsights.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.Web.xml
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.ApplicationInsights.xml
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\obj\Debug\TheChapter.csprojResolveAssemblyReference.cache
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\obj\Debug\ChapterB2B.dll
+C:\Users\91991\Documents\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\obj\Debug\ChapterB2B.pdb
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\ApplicationInsights.config
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\csc.exe
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\System.Collections.Immutable.dll
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\System.Reflection.Metadata.dll
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\vbc.exe
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\VBCSCompiler.exe
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\roslyn\VBCSCompiler.exe.config
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\ChapterB2B.dll.config
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\ChapterB2B.dll
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\ChapterB2B.pdb
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.Agent.Intercept.dll
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.DependencyCollector.dll
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.Web.dll
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.WindowsServer.dll
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.ApplicationInsights.dll
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.DependencyCollector.xml
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.Web.xml
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.AI.WindowsServer.xml
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.ApplicationInsights.xml
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\obj\Debug\TheChapter.csproj.CoreCompileInputs.cache
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\obj\Debug\ChapterB2B.dll
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\obj\Debug\ChapterB2B.pdb
+C:\shanfeng\study\asp.net\sourcecode\NYP-companySupplierWCF\Enterprise project\Enterprise project\Enterprise\ChapterB2B\ChapterB2B\obj\Debug\TheChapter.csprojResolveAssemblyReference.cache
