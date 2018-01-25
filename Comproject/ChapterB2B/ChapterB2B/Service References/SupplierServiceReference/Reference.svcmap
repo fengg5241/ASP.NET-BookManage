@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="31dd6157-93f9-4ffd-8213-142d80637328" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:15334/SupplierService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SupplierService.wsdl" MetadataType="Wsdl" ID="0d47b596-2c33-4a3e-a02e-46967aed770d" SourceId="1" SourceUrl="http://localhost:15334/SupplierService.svc?wsdl" />
+    <MetadataFile FileName="SupplierService.xsd" MetadataType="Schema" ID="d073fd7f-7cfc-4e7f-8d8c-359163a08ecc" SourceId="1" SourceUrl="http://localhost:15334/SupplierService.svc?xsd=xsd0" />
+    <MetadataFile FileName="SupplierService1.xsd" MetadataType="Schema" ID="4b50f80b-5191-4171-9ac0-46bd73e0e067" SourceId="1" SourceUrl="http://localhost:15334/SupplierService.svc?xsd=xsd1" />
+    <MetadataFile FileName="SupplierService.disco" MetadataType="Disco" ID="c9bac514-4534-407f-abf3-d58acb9bbd02" SourceId="1" SourceUrl="http://localhost:15334/SupplierService.svc?disco" />
+    <MetadataFile FileName="SupplierService2.xsd" MetadataType="Schema" ID="d6e7473f-a686-46d9-a7e8-bd3e5d0e10c7" SourceId="1" SourceUrl="http://localhost:15334/SupplierService.svc?xsd=xsd2" />
+    <MetadataFile FileName="SupplierService3.xsd" MetadataType="Schema" ID="c522d24a-75e6-4c2b-904c-b97627b92e2c" SourceId="1" SourceUrl="http://localhost:15334/SupplierService.svc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
